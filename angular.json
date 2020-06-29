@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "DataBinding": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "DataBinding"
+    }
+  },
+  "defaultProject": "DataBinding",
+  "cli": {
+    "analytics": "f5d40d87-1330-4909-98a8-30d7e0807f87"
+  }
 }
